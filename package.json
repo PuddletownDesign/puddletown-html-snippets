@@ -1,0 +1,16 @@
+{
+    "name": "puddletown-html-snippets",
+    "main": "./lib/puddletown-html-snippets",
+    "version": "1.0.0",
+    "description": "A collection of Javascript standard format snippets from Puddletown Design",
+    "keywords": [
+        "snippets",
+        "html"
+    ],
+    "repository": "https://github.com/PuddletownDesign/puddletown-html-snippets",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
